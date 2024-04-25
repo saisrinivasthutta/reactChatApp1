@@ -1,0 +1,17 @@
+.home-container {
+  background-color: #d3ebe6;
+  width: 100vw;
+  height: auto;
+  /*padding: 20px;*/
+  min-height: 100vh;
+}
+
+.head {
+  text-align: center;
+}
+.messages-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  min-height: 70vh;
+}

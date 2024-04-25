@@ -1,0 +1,40 @@
+.message-item-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.message-container {
+  padding: 10px;
+  background-color: white;
+  width: max-content;
+  border-radius: 0px 10px 10px 10px;
+  margin-left: 50px;
+}
+
+.profile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e4768d;
+  border-radius: 40px;
+  margin-right: 20px;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+}
+
+.user-container {
+  display: flex;
+  align-items: center;
+}
+
+.p-icon {
+  color: white;
+  font-size: 20px;
+}
+
+.user-head {
+  color: #1d40bf;
+  font-size: 20px;
+}
